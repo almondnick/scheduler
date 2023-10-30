@@ -16,8 +16,8 @@ To use this application, simply click on the box for what hour you want to add a
 
 Nick Almond
 Email: nickalmond14@gmail.com
-Github Pages Link: 
-Screenshot: 
+Github Pages Link: https://almondnick.github.io/scheduler/
+Screenshot: ![Screenshot 2023-10-30 at 2 07 52 PM](https://github.com/almondnick/scheduler/assets/143033339/e9031687-1b58-45a2-845a-1d1c0d113575)
 
 ## Credits
 
